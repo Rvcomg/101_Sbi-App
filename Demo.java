@@ -4,14 +4,14 @@ public class Demo{
 	return ;
 	}
 
-<<<<<<< Updated upstream
+
 	// bug fixed 193
 	public void m1(){
 
 	}
-=======
+
       
->>>>>>> Stashed changes
+
 
 
 }
