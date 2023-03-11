@@ -10,5 +10,17 @@ public class Dateutils{
 	//logic
 
 
+
 	}
+
+
+ 
+  
+  public void format(){
+    
+    
+    //logic
+    
+  }
 }
+
